@@ -1,4 +1,8 @@
-# UCH Logger
+	       ____          __
+	|¯| |¯|  __|¯|_|¯|  |  |   ___ ___ ___ ___ ___
+	| |_| | |__|  _  |  |  |__| . | . | . | -_|  _|
+	|_____|____|_| |_|  |_____|___|_  |_  |___|_|
+	                              |___|___|	
 Simple command line/terminal program for viewing Ultimate Chicken Horse logs in real time
 
 ### ONLY TESTED ON WINDOWS!
